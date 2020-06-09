@@ -5,7 +5,7 @@ Web Scrapping via Python
 =========================
 
 
-A python code that can collect data from target site and write to a csv file with Beautifulsoup library.
+A python code that can collect data from target static site and write to a csv file with Beautifulsoup library.
 
 `Linkedin <https://www.linkedin.com/in/fatih-teke-502798b4/>`_
 • `Docs <https://github.com/gramya>`_
