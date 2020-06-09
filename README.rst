@@ -2,8 +2,9 @@
 
 
 Web Scrapping via Python
+=========================
 
-============
+
 A python code that can collect data from target site and write to a csv file with Beautifulsoup library.
 
 `Linkedin <https://www.linkedin.com/in/fatih-teke-502798b4/>`_
@@ -20,12 +21,13 @@ A python code that can collect data from target site and write to a csv file wit
 Info
 ============
 
-This script written with python3.6
+This script written with python3.6 and google colab used.
 
-BeautifulSoup
+BeautifulSoup 
 --------------------------
 
 .. code-block:: bash
+
    pip install Beautifulsoup
 
 
